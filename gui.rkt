@@ -187,7 +187,7 @@
          sep))
 
 (def frame (new frame%
-                [label  "set!"]
+                [label  "Set"]
                 [width  frame-w]
                 [height (inexact->exact (floor frame-h))]))
 
